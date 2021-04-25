@@ -14,11 +14,13 @@
 
 h1 {
     font-family: 'Zen Dots', sans-serif;
+    text-shadow: 1px 1px 3px white;
+    color: #303030;
 }
 
 .white-shadow {
   color:white;
-  text-shadow: 1px 1px 3px black;
+  text-shadow: 0px 0px 3px black;
 }
 
 #hero {
@@ -27,9 +29,14 @@ h1 {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-  height:50vh;
+  height:60vh;
 }
 
 #speaker {
   height:12em;
+}
+
+.social {
+  font-style: italic;
+  margin:10px;
 }
