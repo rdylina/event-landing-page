@@ -29,7 +29,7 @@ h1 {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-  height:60vh;
+  height:100%;
 }
 
 #speaker {
