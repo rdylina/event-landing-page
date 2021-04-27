@@ -1,6 +1,6 @@
-# bootstrap-boilerplate
+# event-landing-page
 
-A boilerplate for Bootstrap Projects
+A minimalistic event based landing page. 🐶
 
 ## Running On
 
@@ -11,8 +11,8 @@ This project is using:
 
 ### Theme
 
-Add your theme info here.
+No theme utilized.
 
 ### Third Party Tools/Packages
 
-_Add your packages and tools here._
+_Made with VSCode_
