@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&family=Zen+Dots&display=swap');
+
+* {
+  box-sizing:border-box;
+  margin:0;
+  padding:0;
+  font-family: 'Roboto', sans-serif;
+  
+}
+
+.container-fluid {
+  background-color: #e9e9e9;
+}
+
+h1 {
+    font-family: 'Zen Dots', sans-serif;
+    text-shadow: 1px 1px 3px white;
+    color: #303030;
+}
+
+.white-shadow {
+  color:white;
+  text-shadow: 0px 0px 3px black;
+}
+
+#hero {
+  background: url("../img/hero.jpeg") no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  height:60vh;
+}
+
+#speaker {
+  height:12em;
+}
+
+.social {
+  font-style: italic;
+  margin:10px;
+}
