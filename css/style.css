@@ -32,6 +32,20 @@ h1 {
   height:100%;
 }
 
+@media screen and (max-width:400px){
+  #hero {
+    background: url("../img/hero.jpeg") no-repeat 70% 0% fixed; 
+    
+  }
+}
+
+@media screen and (max-width:650px){
+  #hero {
+    background: url("../img/hero.jpeg") no-repeat 70% 0% fixed; 
+    
+  }
+}
+
 #speaker {
   height:12em;
 }
